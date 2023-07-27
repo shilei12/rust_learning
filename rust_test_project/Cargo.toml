@@ -1,0 +1,8 @@
+[package] # 表块
+name = "rust_test_project" #项目名称
+version = "0.1.0" # 项目版本
+edition = "2021" # rust的大版本号（rust的核心版本）
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
